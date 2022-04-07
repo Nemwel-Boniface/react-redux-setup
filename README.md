@@ -12,6 +12,9 @@ Enjoy!
 - Eslint for Javascript
 - React Testing Library for unit tests of the components
 - React router to handle multiple rendering of your applications
+- Redux for state management
+- React-redux to connect your React components to the Redux store
+- redux-thunk a middleware that allows you to call actions creators that return a function instead of an action object
 
 
 ## Getting Started
